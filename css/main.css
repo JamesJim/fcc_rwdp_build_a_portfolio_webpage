@@ -1,0 +1,15 @@
+/* main.css */
+
+h1 {
+  font-size: 16px;
+}
+
+
+@media screen and (min-width: 768px) {
+
+h1 {
+  font-size: 1.5em;
+}
+
+
+}
